@@ -1,0 +1,14 @@
+main {
+    display: flex;
+}
+
+
+article {
+    flex: 1;
+    border: 1px solid black;
+}
+img {
+    width: 200px;
+    margin: 10px;
+    float: left;
+}
